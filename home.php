@@ -32,7 +32,7 @@
                         <a class="nav-link" href="#">Booking</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Gallery</a>
+                        <a class="nav-link" href="#">Gallery</a> 
                     </li>
                 </ul>
                 <ul class="navbar-nav position-absolute top-30 end-0" id="navbarLeft">
