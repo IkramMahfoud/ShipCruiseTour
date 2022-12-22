@@ -1,0 +1,13 @@
+* {
+    font-family: 'Barlow', sans-serif;
+    font-family: 'K2D', sans-serif;
+}
+.p-header{
+  
+    font-size: 20px;
+}
+@media  (max-width: 800px) {
+    .p-header{
+        font-size: 15px;
+    }
+  }
