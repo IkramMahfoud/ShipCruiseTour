@@ -2,7 +2,7 @@
     include_once APPROOT.'/views/includes/header.php';
     include_once APPROOT.'/views/includes/navbar.php';
 ?>
-<div class="container-fluid vh-100 pt-md-5 d-md-flex flex-column justify-content-between" style="background-image: url(http://localhost/my_php_project/shipCruise/img/b1.jpg);
+<div class="container-fluid vh-100 pt-md-5 d-md-flex flex-column justify-content-between" style="background-image: url(http://localhost/ShipCruiseTour/img/b1.jpg);
     background-size: cover;
     background-position: center;">
     <div class="row px-md-5 py-md-5 mt-md-5">
